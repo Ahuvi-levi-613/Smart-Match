@@ -3,6 +3,94 @@
   "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\Smart-Match\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C6FF4C94-5D45-4155-B4E1-A712EC95C615}|Common\\Common.csproj|c:\\users\\user1\\desktop\\smart-match\\common\\dto\\managerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FF4C94-5D45-4155-B4E1-A712EC95C615}|Common\\Common.csproj|solutionrelative:common\\dto\\managerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FF4C94-5D45-4155-B4E1-A712EC95C615}|Common\\Common.csproj|c:\\users\\user1\\desktop\\smart-match\\common\\dto\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FF4C94-5D45-4155-B4E1-A712EC95C615}|Common\\Common.csproj|solutionrelative:common\\dto\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FF4C94-5D45-4155-B4E1-A712EC95C615}|Common\\Common.csproj|c:\\users\\user1\\desktop\\smart-match\\common\\dto\\candidaterequirementsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FF4C94-5D45-4155-B4E1-A712EC95C615}|Common\\Common.csproj|solutionrelative:common\\dto\\candidaterequirementsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\smart-match\\repository\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\smart-match\\repository\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FF4C94-5D45-4155-B4E1-A712EC95C615}|Common\\Common.csproj|c:\\users\\user1\\desktop\\smart-match\\common\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FF4C94-5D45-4155-B4E1-A712EC95C615}|Common\\Common.csproj|solutionrelative:common\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FF4C94-5D45-4155-B4E1-A712EC95C615}|Common\\Common.csproj|c:\\users\\user1\\desktop\\smart-match\\common\\dto\\skillsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FF4C94-5D45-4155-B4E1-A712EC95C615}|Common\\Common.csproj|solutionrelative:common\\dto\\skillsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FF4C94-5D45-4155-B4E1-A712EC95C615}|Common\\Common.csproj|c:\\users\\user1\\desktop\\smart-match\\common\\dto\\requirementsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FF4C94-5D45-4155-B4E1-A712EC95C615}|Common\\Common.csproj|solutionrelative:common\\dto\\requirementsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FF4C94-5D45-4155-B4E1-A712EC95C615}|Common\\Common.csproj|c:\\users\\user1\\desktop\\smart-match\\common\\dto\\jobskilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FF4C94-5D45-4155-B4E1-A712EC95C615}|Common\\Common.csproj|solutionrelative:common\\dto\\jobskilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FF4C94-5D45-4155-B4E1-A712EC95C615}|Common\\Common.csproj|c:\\users\\user1\\desktop\\smart-match\\common\\dto\\jobrequirementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FF4C94-5D45-4155-B4E1-A712EC95C615}|Common\\Common.csproj|solutionrelative:common\\dto\\jobrequirementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\smart-match\\repository\\entities\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\smart-match\\repository\\entities\\jobrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\jobrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FF4C94-5D45-4155-B4E1-A712EC95C615}|Common\\Common.csproj|c:\\users\\user1\\desktop\\smart-match\\common\\dto\\candidateskillsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FF4C94-5D45-4155-B4E1-A712EC95C615}|Common\\Common.csproj|solutionrelative:common\\dto\\candidateskillsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\smart-match\\repository\\entities\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\smart-match\\repository\\entities\\requirements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\requirements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\smart-match\\repository\\entities\\jobskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\jobskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\smart-match\\repository\\entities\\candidateskills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\candidateskills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\smart-match\\repository\\entities\\candidaterequirements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\candidaterequirements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\smart-match\\repository\\repositories\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00C706E-D04E-4E48-B936-B55EC6915B32}|Mock\\Mock.csproj|c:\\users\\user1\\desktop\\smart-match\\mock\\migrations\\20250428181912_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00C706E-D04E-4E48-B936-B55EC6915B32}|Mock\\Mock.csproj|solutionrelative:mock\\migrations\\20250428181912_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7664FF20-CA40-447E-BFF0-4DAE51938400}|Services\\Service.csproj|c:\\users\\user1\\desktop\\smart-match\\services\\servicess\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7664FF20-CA40-447E-BFF0-4DAE51938400}|Services\\Service.csproj|solutionrelative:services\\servicess\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7664FF20-CA40-447E-BFF0-4DAE51938400}|Services\\Service.csproj|c:\\users\\user1\\desktop\\smart-match\\services\\servicess\\jobrequireservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7664FF20-CA40-447E-BFF0-4DAE51938400}|Services\\Service.csproj|solutionrelative:services\\servicess\\jobrequireservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E1808197-BA63-4F9A-B9FE-7F7F9A2E9473}|Smart-Match\\Smart-Match.csproj|c:\\users\\user1\\desktop\\smart-match\\smart-match\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1808197-BA63-4F9A-B9FE-7F7F9A2E9473}|Smart-Match\\Smart-Match.csproj|solutionrelative:smart-match\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,24 +103,8 @@
       "RelativeMoniker": "D:0:0:{A00C706E-D04E-4E48-B936-B55EC6915B32}|Mock\\Mock.csproj|solutionrelative:mock\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\smart-match\\repository\\entities\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\smart-match\\repository\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7664FF20-CA40-447E-BFF0-4DAE51938400}|Services\\Service.csproj|c:\\users\\user1\\desktop\\smart-match\\services\\servicess\\mymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7664FF20-CA40-447E-BFF0-4DAE51938400}|Services\\Service.csproj|solutionrelative:services\\servicess\\mymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\smart-match\\repository\\entities\\jobskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\jobskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\smart-match\\repository\\entities\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C1E6A37-2A16-4DE2-A1B6-C7773550AD05}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A00C706E-D04E-4E48-B936-B55EC6915B32}|Mock\\Mock.csproj|c:\\users\\user1\\desktop\\smart-match\\mock\\migrations\\20250428192011_init1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,24 +119,12 @@
       "RelativeMoniker": "D:0:0:{A00C706E-D04E-4E48-B936-B55EC6915B32}|Mock\\Mock.csproj|solutionrelative:mock\\migrations\\20250428181912_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A00C706E-D04E-4E48-B936-B55EC6915B32}|Mock\\Mock.csproj|c:\\users\\user1\\desktop\\smart-match\\mock\\migrations\\20250428181912_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A00C706E-D04E-4E48-B936-B55EC6915B32}|Mock\\Mock.csproj|solutionrelative:mock\\migrations\\20250428181912_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E1808197-BA63-4F9A-B9FE-7F7F9A2E9473}|Smart-Match\\Smart-Match.csproj|c:\\users\\user1\\desktop\\smart-match\\smart-match\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1808197-BA63-4F9A-B9FE-7F7F9A2E9473}|Smart-Match\\Smart-Match.csproj|solutionrelative:smart-match\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7664FF20-CA40-447E-BFF0-4DAE51938400}|Services\\Service.csproj|c:\\users\\user1\\desktop\\smart-match\\services\\servicess\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7664FF20-CA40-447E-BFF0-4DAE51938400}|Services\\Service.csproj|solutionrelative:services\\servicess\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7664FF20-CA40-447E-BFF0-4DAE51938400}|Services\\Service.csproj|c:\\users\\user1\\desktop\\smart-match\\services\\servicess\\jobskillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7664FF20-CA40-447E-BFF0-4DAE51938400}|Services\\Service.csproj|solutionrelative:services\\servicess\\jobskillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7664FF20-CA40-447E-BFF0-4DAE51938400}|Services\\Service.csproj|c:\\users\\user1\\desktop\\smart-match\\services\\servicess\\jobrequireservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7664FF20-CA40-447E-BFF0-4DAE51938400}|Services\\Service.csproj|solutionrelative:services\\servicess\\jobrequireservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7664FF20-CA40-447E-BFF0-4DAE51938400}|Services\\Service.csproj|c:\\users\\user1\\desktop\\smart-match\\services\\servicess\\candidateskillsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,7 +146,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,33 +154,227 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagerDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Common\\Dto\\ManagerDto.cs",
+              "RelativeDocumentMoniker": "Common\\Dto\\ManagerDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Smart-Match\\Common\\Dto\\ManagerDto.cs",
+              "RelativeToolTip": "Common\\Dto\\ManagerDto.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:23:04.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobSkillDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Common\\Dto\\JobSkillDto.cs",
+              "RelativeDocumentMoniker": "Common\\Dto\\JobSkillDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Smart-Match\\Common\\Dto\\JobSkillDto.cs",
+              "RelativeToolTip": "Common\\Dto\\JobSkillDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:22:46.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JobRequirementDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Common\\Dto\\JobRequirementDto.cs",
+              "RelativeDocumentMoniker": "Common\\Dto\\JobRequirementDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Smart-Match\\Common\\Dto\\JobRequirementDto.cs",
+              "RelativeToolTip": "Common\\Dto\\JobRequirementDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:22:26.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Common\\Dto\\JobDto.cs",
+              "RelativeDocumentMoniker": "Common\\Dto\\JobDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Smart-Match\\Common\\Dto\\JobDto.cs",
+              "RelativeToolTip": "Common\\Dto\\JobDto.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wBgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:22:14.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CandidateRequirementsDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Common\\Dto\\CandidateRequirementsDto.cs",
+              "RelativeDocumentMoniker": "Common\\Dto\\CandidateRequirementsDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Smart-Match\\Common\\Dto\\CandidateRequirementsDto.cs",
+              "RelativeToolTip": "Common\\Dto\\CandidateRequirementsDto.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:11:53.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CandidateSkillsDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Common\\Dto\\CandidateSkillsDto.cs",
+              "RelativeDocumentMoniker": "Common\\Dto\\CandidateSkillsDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Smart-Match\\Common\\Dto\\CandidateSkillsDto.cs",
+              "RelativeToolTip": "Common\\Dto\\CandidateSkillsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:11:39.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Requirements.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Entities\\Requirements.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Requirements.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Entities\\Requirements.cs",
+              "RelativeToolTip": "Repository\\Entities\\Requirements.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:11:17.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JobRequirement.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Entities\\JobRequirement.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\JobRequirement.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Entities\\JobRequirement.cs",
+              "RelativeToolTip": "Repository\\Entities\\JobRequirement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:10:27.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CandidateRequirements.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Entities\\CandidateRequirements.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\CandidateRequirements.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Entities\\CandidateRequirements.cs",
+              "RelativeToolTip": "Repository\\Entities\\CandidateRequirements.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:09:15.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Entities\\Candidate.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Candidate.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Entities\\Candidate.cs",
+              "RelativeToolTip": "Repository\\Entities\\Candidate.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:08:59.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CandidateSkills.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Entities\\CandidateSkills.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\CandidateSkills.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Entities\\CandidateSkills.cs",
+              "RelativeToolTip": "Repository\\Entities\\CandidateSkills.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:06:14.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CandidateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Repositories\\CandidateRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\CandidateRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Repositories\\CandidateRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\CandidateRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:04:14.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Smart-Match",
+              "Title": "CandidateDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Common\\Dto\\CandidateDto.cs",
+              "RelativeDocumentMoniker": "Common\\Dto\\CandidateDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Smart-Match\\Common\\Dto\\CandidateDto.cs",
+              "RelativeToolTip": "Common\\Dto\\CandidateDto.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwBQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:03:41.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RequirementsDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Common\\Dto\\RequirementsDto.cs",
+              "RelativeDocumentMoniker": "Common\\Dto\\RequirementsDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Smart-Match\\Common\\Dto\\RequirementsDto.cs",
+              "RelativeToolTip": "Common\\Dto\\RequirementsDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:03:38.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SkillsDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Common\\Dto\\SkillsDto.cs",
+              "RelativeDocumentMoniker": "Common\\Dto\\SkillsDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Smart-Match\\Common\\Dto\\SkillsDto.cs",
+              "RelativeToolTip": "Common\\Dto\\SkillsDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:03:36.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Smart-Match.csproj",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Smart-Match\\Smart-Match.csproj",
               "RelativeDocumentMoniker": "Smart-Match\\Smart-Match.csproj",
               "ToolTip": "C:\\Users\\user1\\Desktop\\Smart-Match\\Smart-Match\\Smart-Match.csproj",
               "RelativeToolTip": "Smart-Match\\Smart-Match.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-13T19:35:54.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T19:35:54.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Job.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Entities\\Job.cs",
               "RelativeDocumentMoniker": "Repository\\Entities\\Job.cs",
               "ToolTip": "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Entities\\Job.cs",
               "RelativeToolTip": "Repository\\Entities\\Job.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAA7wCcAAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T19:15:00.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 22,
               "Title": "JobController.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Smart-Match\\Controllers\\JobController.cs",
               "RelativeDocumentMoniker": "Smart-Match\\Controllers\\JobController.cs",
@@ -133,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 25,
               "Title": "MyMapper.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Services\\servicess\\MyMapper.cs",
               "RelativeDocumentMoniker": "Services\\servicess\\MyMapper.cs",
@@ -141,38 +395,37 @@
               "RelativeToolTip": "Services\\servicess\\MyMapper.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T18:40:06.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T18:40:06.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "JobSkill.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Entities\\JobSkill.cs",
               "RelativeDocumentMoniker": "Repository\\Entities\\JobSkill.cs",
               "ToolTip": "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Entities\\JobSkill.cs",
               "RelativeToolTip": "Repository\\Entities\\JobSkill.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBUAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T18:19:07.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Entities\\Manager.cs",
               "RelativeDocumentMoniker": "Repository\\Entities\\Manager.cs",
               "ToolTip": "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Entities\\Manager.cs",
               "RelativeToolTip": "Repository\\Entities\\Manager.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA4AAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T18:18:43.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Skills.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Entities\\Skills.cs",
               "RelativeDocumentMoniker": "Repository\\Entities\\Skills.cs",
@@ -185,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 26,
               "Title": "20250428192011_init1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Mock\\Migrations\\20250428192011_init1.Designer.cs",
               "RelativeDocumentMoniker": "Mock\\Migrations\\20250428192011_init1.Designer.cs",
@@ -193,12 +446,11 @@
               "RelativeToolTip": "Mock\\Migrations\\20250428192011_init1.Designer.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAASwA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T17:04:01.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T17:04:01.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 27,
               "Title": "20250428192011_init1.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Mock\\Migrations\\20250428192011_init1.cs",
               "RelativeDocumentMoniker": "Mock\\Migrations\\20250428192011_init1.cs",
@@ -206,12 +458,11 @@
               "RelativeToolTip": "Mock\\Migrations\\20250428192011_init1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T17:03:59.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T17:03:59.455Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 28,
               "Title": "20250428181912_init.Designer.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Mock\\Migrations\\20250428181912_init.Designer.cs",
               "RelativeDocumentMoniker": "Mock\\Migrations\\20250428181912_init.Designer.cs",
@@ -219,12 +470,11 @@
               "RelativeToolTip": "Mock\\Migrations\\20250428181912_init.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T17:03:56.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T17:03:56.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "20250428181912_init.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Mock\\Migrations\\20250428181912_init.cs",
               "RelativeDocumentMoniker": "Mock\\Migrations\\20250428181912_init.cs",
@@ -237,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 24,
               "Title": "DataBase.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Mock\\DataBase.cs",
               "RelativeDocumentMoniker": "Mock\\DataBase.cs",
@@ -245,12 +495,11 @@
               "RelativeToolTip": "Mock\\DataBase.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAYwE4AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T16:44:30.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T16:44:30.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Smart-Match\\Program.cs",
               "RelativeDocumentMoniker": "Smart-Match\\Program.cs",
@@ -258,12 +507,11 @@
               "RelativeToolTip": "Smart-Match\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T16:41:28.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T16:41:28.035Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 33,
               "Title": "CandidateRequireService.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Services\\servicess\\CandidateRequireService.cs",
               "RelativeDocumentMoniker": "Services\\servicess\\CandidateRequireService.cs",
@@ -271,12 +519,11 @@
               "RelativeToolTip": "Services\\servicess\\CandidateRequireService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T19:55:43.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T19:55:43.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 32,
               "Title": "CandidateService.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Services\\servicess\\CandidateService.cs",
               "RelativeDocumentMoniker": "Services\\servicess\\CandidateService.cs",
@@ -284,12 +531,11 @@
               "RelativeToolTip": "Services\\servicess\\CandidateService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T19:55:42.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T19:55:42.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 31,
               "Title": "CandidateSkillsService.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Services\\servicess\\CandidateSkillsService.cs",
               "RelativeDocumentMoniker": "Services\\servicess\\CandidateSkillsService.cs",
@@ -297,12 +543,11 @@
               "RelativeToolTip": "Services\\servicess\\CandidateSkillsService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T19:55:41.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T19:55:41.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "JobRequireService.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Services\\servicess\\JobRequireService.cs",
               "RelativeDocumentMoniker": "Services\\servicess\\JobRequireService.cs",
@@ -315,20 +560,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "JobService.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Services\\servicess\\JobService.cs",
               "RelativeDocumentMoniker": "Services\\servicess\\JobService.cs",
               "ToolTip": "C:\\Users\\user1\\Desktop\\Smart-Match\\Services\\servicess\\JobService.cs",
               "RelativeToolTip": "Services\\servicess\\JobService.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAmwBAAAAAjAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T19:55:38.028Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 30,
               "Title": "JobSkillService.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Smart-Match\\Services\\servicess\\JobSkillService.cs",
               "RelativeDocumentMoniker": "Services\\servicess\\JobSkillService.cs",
@@ -336,8 +581,7 @@
               "RelativeToolTip": "Services\\servicess\\JobSkillService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T19:55:35.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T19:55:35.507Z"
             }
           ]
         }

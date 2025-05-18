@@ -23,8 +23,8 @@ namespace Common.Dto
 
         public int PassingScore { get; set; }
         public int NumCandidate { get; set; }
-        public List<JobRequirementDto> ListRequirement { get; set; }
-        public List<JobSkillDto> ListSkills { get; set; }
+      //  public List<JobRequirementDto> ListRequirement { get; set; }
+       // public List<JobSkillDto> ListSkills { get; set; }
  
     }
 }

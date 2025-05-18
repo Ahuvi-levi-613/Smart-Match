@@ -17,7 +17,7 @@ namespace Common.Dto
             public int CandidateReqId { get; set; }
 
             public int IdCandidate { get; set; }
-            public string CandidateName { get; set; } // ניתן להוסיף את שם המועמד (בהנחה שיש לך שדה כזה ב-Candidate)
+            public string CandidateName { get; set; } 
 
             public int IdRequirement { get; set; }
             public string RequirementName { get; set; } // שם הדרישה

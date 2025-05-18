@@ -19,12 +19,12 @@ namespace Repository.Entities
 
         [ForeignKey("Job")]
         public int IdJob { get; set; }
-        public Job Job { get; set; }
+        public virtual Job Job { get; set; }
 
         [ForeignKey("Requirement")]
         public int IdRequirement { get; set; }
         public Requirements Requirement { get; set; }
 
-        public eAdvanOrMust AdvantageOrMust { get; set; } // "advantage" או "must"
+        public eAdvanOrMust AdvantageOrMust { get; set; } 
     }
 }

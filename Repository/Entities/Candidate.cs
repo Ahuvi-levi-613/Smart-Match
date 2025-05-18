@@ -22,8 +22,8 @@ namespace Repository.Entities
             public string Area {  get; set; }
             public eEnglishLevel EnglishLevel { get; set; }
 
-            public List<CandidateRequirement> ListCandidateRequirement { get; set; }
-            public List<CandidateSkills> ListSkills { get; set; }
+            public virtual List<CandidateRequirement> ListCandidateRequirement { get; set; }
+            public virtual List<CandidateSkills> ListSkills { get; set; }
         }
     }
 

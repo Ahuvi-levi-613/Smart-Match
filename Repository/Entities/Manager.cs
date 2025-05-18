@@ -15,7 +15,7 @@ namespace Repository.Entities
             public string Email { get; set; }
             public string Password { get; set; }
 
-            public List<Job> Jobs { get; set; }
+            public virtual List<Job> Jobs { get; set; }
         }
     }
  

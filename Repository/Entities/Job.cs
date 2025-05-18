@@ -24,15 +24,15 @@ namespace Repository.Entities
 
         [ForeignKey("Manager")]
         public int ManagerId { get; set; }
-        public Manager Manager { get; set; }
+        public virtual Manager Manager { get; set; }
         
         public string Title { get; set; }
         public string Description { get; set; }
         public string Area {  get; set; }
         public eEnglishLevel EnglishLevel { get; set; }
 
-        public List<JobRequirement> ListRequirement { get; set; }
-        public List<JobSkill> ListSkills { get; set; }
+        public virtual List<JobRequirement> ListRequirement { get; set; }
+        public virtual List<JobSkill> ListSkills { get; set; }
         public int PassingScore { get; set; }
         public int NumCandidate { get; set; }
     }
