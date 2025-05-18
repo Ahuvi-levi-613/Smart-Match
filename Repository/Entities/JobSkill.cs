@@ -20,7 +20,6 @@ namespace Repository.Entities
         [ForeignKey("Skills")]
         public int IdSkills { get; set; }
         public Skills Skills { get; set; }
-
         public string Name { get; set; }
         public int Mark { get; set; }
     }
