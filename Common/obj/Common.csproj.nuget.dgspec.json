@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user1\\Desktop\\Smart-Match\\Common\\Common.csproj": {}
+    "L:\\שנה ב\\Full Stack\\אפרת אשורי\\פרויקט סיכום c# react\\c#\\Smart-Match\\Common\\Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user1\\Desktop\\Smart-Match\\Common\\Common.csproj": {
+    "L:\\שנה ב\\Full Stack\\אפרת אשורי\\פרויקט סיכום c# react\\c#\\Smart-Match\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Desktop\\Smart-Match\\Common\\Common.csproj",
+        "projectUniqueName": "L:\\שנה ב\\Full Stack\\אפרת אשורי\\פרויקט סיכום c# react\\c#\\Smart-Match\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\user1\\Desktop\\Smart-Match\\Common\\Common.csproj",
-        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Desktop\\Smart-Match\\Common\\obj\\",
+        "projectPath": "L:\\שנה ב\\Full Stack\\אפרת אשורי\\פרויקט סיכום c# react\\c#\\Smart-Match\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\s-sys\\.nuget\\packages\\",
+        "outputPath": "L:\\שנה ב\\Full Stack\\אפרת אשורי\\פרויקט סיכום c# react\\c#\\Smart-Match\\Common\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\s-sys\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Repository.csproj"
+              "L:\\שנה ב\\Full Stack\\אפרת אשורי\\פרויקט סיכום c# react\\c#\\Smart-Match\\Repository\\Repository.csproj": {
+                "projectPath": "L:\\שנה ב\\Full Stack\\אפרת אשורי\\פרויקט סיכום c# react\\c#\\Smart-Match\\Repository\\Repository.csproj"
               }
             }
           }
@@ -43,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -64,30 +54,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Repository.csproj": {
+    "L:\\שנה ב\\Full Stack\\אפרת אשורי\\פרויקט סיכום c# react\\c#\\Smart-Match\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Repository.csproj",
+        "projectUniqueName": "L:\\שנה ב\\Full Stack\\אפרת אשורי\\פרויקט סיכום c# react\\c#\\Smart-Match\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Desktop\\Smart-Match\\Repository\\obj\\",
+        "projectPath": "L:\\שנה ב\\Full Stack\\אפרת אשורי\\פרויקט סיכום c# react\\c#\\Smart-Match\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\s-sys\\.nuget\\packages\\",
+        "outputPath": "L:\\שנה ב\\Full Stack\\אפרת אשורי\\פרויקט סיכום c# react\\c#\\Smart-Match\\Repository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\s-sys\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -95,7 +76,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -108,22 +88,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -135,12 +104,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
