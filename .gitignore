@@ -1,23 +1,96 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+#############
+# כלליים
+#############
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
+# תיקיות בינאריות, לוגים, ו-builds
+bin/
+obj/
+out/
+*.log
 
-# testing
-/coverage
+# VS Code
+.vscode/
 
-# production
-/build
+# קבצים זמניים
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.sln.docstates
 
-# misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+#############
+# Visual Studio
+#############
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.dbmdl
+*.pdb
+*.cache
+*.ilk
+*.log
+*.vspscc
+*.vssscc
+*.ncb
+*.aps
+*.sdf
+*.opensdf
+*.VC.db
+.vs/
 
+# קבצי שיחזור
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+
+# Build results
+[Bb]uild/
+[Dd]ebug*/
+[Rr]elease*/
+
+#############
+# .NET
+#############
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.ide/
+*.ide-shm
+*.ide-wal
+
+# מסד נתונים זמני
+*.mdf
+*.ldf
+
+#############
+# npm + React Client
+#############
+
+# node_modules – ספריות צד שלישי
+**/node_modules/
+
+# תוצרי build
+**/build/
+**/dist/
+
+# קבצים זמניים של npm / yarn
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+pnpm-debug.log*
+
+# .env – משתני סביבה מקומיים
+**/.env*
+.env.local
+.env.*.local
+
+# IDEs
+.idea/
+
+#############
+# others
+#############
+*.DS_Store
+Thumbs.db
