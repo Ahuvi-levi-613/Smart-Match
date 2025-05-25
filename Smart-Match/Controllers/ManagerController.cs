@@ -36,7 +36,7 @@ namespace Smart_Match.Controllers
 
         // POST api/<ManagerController>
         [HttpPost]
-        [Authorize (Roles ="admin")]//הכוונה פה זה לתת אופציה רק למשתמש שילו token שיש לו הרשאת גישה(לדוגמא מי שיש לו תפקיד מסוים)
+       // [Authorize (Roles ="admin")]//הכוונה פה זה לתת אופציה רק למשתמש שילו token שיש לו הרשאת גישה(לדוגמא מי שיש לו תפקיד מסוים)
         public ManagerDto Post([FromBody] ManagerDto manager)
         {
           return  service.AddItem(manager);

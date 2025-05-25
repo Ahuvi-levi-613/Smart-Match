@@ -1,23 +1,48 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# dependencies
-/node_modules
-/.pnp
+node_modules/
+.pnp/
 .pnp.js
 
-# testing
-/coverage
 
-# production
-/build
+coverage/
 
-# misc
-.DS_Store
+# ⚙️ קבצי Build
+build/
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.mdb
+
+ 
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+.env
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
 
+
+.DS_Store
+Thumbs.db
+
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+_ReSharper*/
+*.DotSettings.user
+
+
+**/Directory.Build.props
+*.csproj.user
+
+

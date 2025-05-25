@@ -81,3 +81,25 @@ C:\Users\IMOE001\Pictures\לימודים\שנה ב\c#++\projectC#\Smart-Match\Mo
 C:\Users\IMOE001\Pictures\לימודים\שנה ב\c#++\projectC#\Smart-Match\Mock\bin\Debug\net8.0\Common.pdb
 C:\Users\IMOE001\Pictures\לימודים\שנה ב\c#++\projectC#\Smart-Match\Mock\bin\Debug\net8.0\Service.pdb
 C:\Users\IMOE001\Pictures\לימודים\שנה ב\c#++\projectC#\Smart-Match\Mock\obj\Debug\net8.0\Mock.sourcelink.json
+C:\Users\IMOE001\Desktop\project-good\Smart-Match\Mock\bin\Debug\net8.0\Mock.deps.json
+C:\Users\IMOE001\Desktop\project-good\Smart-Match\Mock\bin\Debug\net8.0\Mock.runtimeconfig.json
+C:\Users\IMOE001\Desktop\project-good\Smart-Match\Mock\bin\Debug\net8.0\Mock.dll
+C:\Users\IMOE001\Desktop\project-good\Smart-Match\Mock\bin\Debug\net8.0\Mock.pdb
+C:\Users\IMOE001\Desktop\project-good\Smart-Match\Mock\bin\Debug\net8.0\Common.dll
+C:\Users\IMOE001\Desktop\project-good\Smart-Match\Mock\bin\Debug\net8.0\Repository.dll
+C:\Users\IMOE001\Desktop\project-good\Smart-Match\Mock\bin\Debug\net8.0\Service.dll
+C:\Users\IMOE001\Desktop\project-good\Smart-Match\Mock\bin\Debug\net8.0\Common.pdb
+C:\Users\IMOE001\Desktop\project-good\Smart-Match\Mock\bin\Debug\net8.0\Repository.pdb
+C:\Users\IMOE001\Desktop\project-good\Smart-Match\Mock\bin\Debug\net8.0\Service.pdb
+C:\Users\IMOE001\Desktop\project-good\Smart-Match\Mock\obj\Debug\net8.0\Mock.csproj.AssemblyReference.cache
+C:\Users\IMOE001\Desktop\project-good\Smart-Match\Mock\obj\Debug\net8.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMOE001\Desktop\project-good\Smart-Match\Mock\obj\Debug\net8.0\Mock.AssemblyInfoInputs.cache
+C:\Users\IMOE001\Desktop\project-good\Smart-Match\Mock\obj\Debug\net8.0\Mock.AssemblyInfo.cs
+C:\Users\IMOE001\Desktop\project-good\Smart-Match\Mock\obj\Debug\net8.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\IMOE001\Desktop\project-good\Smart-Match\Mock\obj\Debug\net8.0\Mock.sourcelink.json
+C:\Users\IMOE001\Desktop\project-good\Smart-Match\Mock\obj\Debug\net8.0\Mock.csproj.CopyComplete
+C:\Users\IMOE001\Desktop\project-good\Smart-Match\Mock\obj\Debug\net8.0\Mock.dll
+C:\Users\IMOE001\Desktop\project-good\Smart-Match\Mock\obj\Debug\net8.0\refint\Mock.dll
+C:\Users\IMOE001\Desktop\project-good\Smart-Match\Mock\obj\Debug\net8.0\Mock.pdb
+C:\Users\IMOE001\Desktop\project-good\Smart-Match\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
+C:\Users\IMOE001\Desktop\project-good\Smart-Match\Mock\obj\Debug\net8.0\ref\Mock.dll

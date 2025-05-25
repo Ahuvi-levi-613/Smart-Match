@@ -3585,11 +3585,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IMOE001\\Pictures\\לימודים\\שנה ב\\c#++\\projectC#\\Smart-Match\\Mock\\Mock.csproj",
+      "projectUniqueName": "C:\\Users\\IMOE001\\Desktop\\project-good\\Smart-Match\\Mock\\Mock.csproj",
       "projectName": "Mock",
-      "projectPath": "C:\\Users\\IMOE001\\Pictures\\לימודים\\שנה ב\\c#++\\projectC#\\Smart-Match\\Mock\\Mock.csproj",
+      "projectPath": "C:\\Users\\IMOE001\\Desktop\\project-good\\Smart-Match\\Mock\\Mock.csproj",
       "packagesPath": "C:\\Users\\IMOE001\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IMOE001\\Pictures\\לימודים\\שנה ב\\c#++\\projectC#\\Smart-Match\\Mock\\obj\\",
+      "outputPath": "C:\\Users\\IMOE001\\Desktop\\project-good\\Smart-Match\\Mock\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3611,14 +3611,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\IMOE001\\Pictures\\לימודים\\שנה ב\\c#++\\projectC#\\Smart-Match\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\IMOE001\\Pictures\\לימודים\\שנה ב\\c#++\\projectC#\\Smart-Match\\Common\\Common.csproj"
+            "C:\\Users\\IMOE001\\Desktop\\project-good\\Smart-Match\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\IMOE001\\Desktop\\project-good\\Smart-Match\\Common\\Common.csproj"
             },
-            "C:\\Users\\IMOE001\\Pictures\\לימודים\\שנה ב\\c#++\\projectC#\\Smart-Match\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\IMOE001\\Pictures\\לימודים\\שנה ב\\c#++\\projectC#\\Smart-Match\\Repository\\Repository.csproj"
+            "C:\\Users\\IMOE001\\Desktop\\project-good\\Smart-Match\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\IMOE001\\Desktop\\project-good\\Smart-Match\\Repository\\Repository.csproj"
             },
-            "C:\\Users\\IMOE001\\Pictures\\לימודים\\שנה ב\\c#++\\projectC#\\Smart-Match\\Services\\Service.csproj": {
-              "projectPath": "C:\\Users\\IMOE001\\Pictures\\לימודים\\שנה ב\\c#++\\projectC#\\Smart-Match\\Services\\Service.csproj"
+            "C:\\Users\\IMOE001\\Desktop\\project-good\\Smart-Match\\Services\\Service.csproj": {
+              "projectPath": "C:\\Users\\IMOE001\\Desktop\\project-good\\Smart-Match\\Services\\Service.csproj"
             }
           }
         }
