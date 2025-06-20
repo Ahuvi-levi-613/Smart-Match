@@ -7,7 +7,7 @@ using Service.Interfaces;
 
 namespace Smart_Match.Controllers
 {
-    [Authorize(Roles = "Candidate")]
+    [Authorize(Roles = "Manager,Candidate")]
     [Route("api/[controller]")]
     [ApiController]
     public class CandidateController : ControllerBase
@@ -34,18 +34,27 @@ namespace Smart_Match.Controllers
 
         // POST api/<CandidateController>
         [HttpPost]
-
-        public async Task<CandidateDto> Post([FromBody] CandidateDto candidate)
+        public async Task<IActionResult> Post([FromBody] CandidateDto candidate)
         {
-            return await service.AddItem(candidate);
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
+            var result = await service.AddItem(candidate);
+            return CreatedAtAction(nameof(Get), new { id = result.CandidateId }, result);
         }
+
 
         // PUT api/<CandidateController>/5
         [HttpPut("{id}")]
-        public async Task Put(int id, [FromBody] CandidateDto candidate)
+        public async Task<IActionResult> Put(int id, [FromBody] CandidateDto candidate)
         {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
             await service.UpdateItem(id, candidate);
+            return NoContent();
         }
+
 
         // DELETE api/<CandidateController>/5
         [HttpDelete("{id}")]
