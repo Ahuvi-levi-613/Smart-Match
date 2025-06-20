@@ -84,6 +84,14 @@
           }
         }
       },
+      "HungarianAlgorithm/2.3.3": {
+        "runtime": {
+          "lib/netstandard2.1/HungarianAlgorithm.dll": {
+            "assemblyVersion": "2.3.3.0",
+            "fileVersion": "2.3.3.0"
+          }
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
         "runtime": {
           "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {
@@ -715,7 +723,8 @@
       "Service/1.0.0": {
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
-          "Common": "1.0.0"
+          "Common": "1.0.0",
+          "HungarianAlgorithm": "2.3.3"
         },
         "runtime": {
           "Service.dll": {}
@@ -763,6 +772,13 @@
       "sha512": "sha512-lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==",
       "path": "humanizer.core/2.14.1",
       "hashPath": "humanizer.core.2.14.1.nupkg.sha512"
+    },
+    "HungarianAlgorithm/2.3.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oGW/FaG3GS9UxFSB5QAMrLpBFFL3j0WNGyd0oiS/rQF8QY24Ep1y2zYvaUZnzucoBUYfIecEOy0v+eiZdNlPOQ==",
+      "path": "hungarianalgorithm/2.3.3",
+      "hashPath": "hungarianalgorithm.2.3.3.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
       "type": "package",

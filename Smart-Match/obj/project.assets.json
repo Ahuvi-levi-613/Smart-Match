@@ -88,6 +88,19 @@
           }
         }
       },
+      "HungarianAlgorithm/2.3.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/HungarianAlgorithm.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/HungarianAlgorithm.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authentication.JwtBearer/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -1301,7 +1314,8 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
-          "Common": "1.0.0"
+          "Common": "1.0.0",
+          "HungarianAlgorithm": "2.3.3"
         },
         "compile": {
           "bin/placeholder/Service.dll": {}
@@ -1396,6 +1410,23 @@
         "lib/netstandard2.0/Humanizer.dll",
         "lib/netstandard2.0/Humanizer.xml",
         "logo.png"
+      ]
+    },
+    "HungarianAlgorithm/2.3.3": {
+      "sha512": "oGW/FaG3GS9UxFSB5QAMrLpBFFL3j0WNGyd0oiS/rQF8QY24Ep1y2zYvaUZnzucoBUYfIecEOy0v+eiZdNlPOQ==",
+      "type": "package",
+      "path": "hungarianalgorithm/2.3.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.md",
+        "hungarianalgorithm.2.3.3.nupkg.sha512",
+        "hungarianalgorithm.nuspec",
+        "lib/netstandard2.0/HungarianAlgorithm.dll",
+        "lib/netstandard2.0/HungarianAlgorithm.xml",
+        "lib/netstandard2.1/HungarianAlgorithm.dll",
+        "lib/netstandard2.1/HungarianAlgorithm.xml"
       ]
     },
     "Microsoft.AspNetCore.Authentication.JwtBearer/7.0.0": {
@@ -4021,23 +4052,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\IMOE001\\.nuget\\packages\\": {},
+    "C:\\Users\\user1\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IMOE001\\Desktop\\project-good\\Smart-Match\\Smart-Match\\Smart-Match.csproj",
+      "projectUniqueName": "C:\\Users\\user1\\Desktop\\פרוייקט מהרפו של רפרת\\Smart-Match\\Smart-Match\\Smart-Match.csproj",
       "projectName": "Smart-Match",
-      "projectPath": "C:\\Users\\IMOE001\\Desktop\\project-good\\Smart-Match\\Smart-Match\\Smart-Match.csproj",
-      "packagesPath": "C:\\Users\\IMOE001\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IMOE001\\Desktop\\project-good\\Smart-Match\\Smart-Match\\obj\\",
+      "projectPath": "C:\\Users\\user1\\Desktop\\פרוייקט מהרפו של רפרת\\Smart-Match\\Smart-Match\\Smart-Match.csproj",
+      "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user1\\Desktop\\פרוייקט מהרפו של רפרת\\Smart-Match\\Smart-Match\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\IMOE001\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4053,11 +4084,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\IMOE001\\Desktop\\project-good\\Smart-Match\\Mock\\Mock.csproj": {
-              "projectPath": "C:\\Users\\IMOE001\\Desktop\\project-good\\Smart-Match\\Mock\\Mock.csproj"
+            "C:\\Users\\user1\\Desktop\\פרוייקט מהרפו של רפרת\\Smart-Match\\Mock\\Mock.csproj": {
+              "projectPath": "C:\\Users\\user1\\Desktop\\פרוייקט מהרפו של רפרת\\Smart-Match\\Mock\\Mock.csproj"
             },
-            "C:\\Users\\IMOE001\\Desktop\\project-good\\Smart-Match\\Services\\Service.csproj": {
-              "projectPath": "C:\\Users\\IMOE001\\Desktop\\project-good\\Smart-Match\\Services\\Service.csproj"
+            "C:\\Users\\user1\\Desktop\\פרוייקט מהרפו של רפרת\\Smart-Match\\Services\\Service.csproj": {
+              "projectPath": "C:\\Users\\user1\\Desktop\\פרוייקט מהרפו של רפרת\\Smart-Match\\Services\\Service.csproj"
             }
           }
         }
@@ -4066,6 +4097,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4110,7 +4146,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

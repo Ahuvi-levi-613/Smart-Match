@@ -23,6 +23,8 @@ namespace Service.servicess
             services.AddScoped<IService<RequirementsDto>, RequirementsService>();
             services.AddScoped<IService<SkillsDto>, SkillsService>();
             services.AddScoped<IService<UserDto>, UserService>();
+            services.AddScoped<ICandidateMatcherService, CandidateMatcherService>();
+
             services.AddAutoMapper(typeof(MyMapper));
             return services;
         }

@@ -35,17 +35,25 @@ namespace Smart_Match.Controllers
         // POST api/<JobController>
         [Authorize(Roles = "Manager")]
         [HttpPost]
-        public async Task<JobDto> Post([FromBody] JobDto Job)
+        public async Task<IActionResult> Post([FromBody] JobDto job)
         {
-            return await service.AddItem(Job);
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
+            var createdJob = await service.AddItem(job);
+            return CreatedAtAction(nameof(Get), new { id = createdJob.JobId }, createdJob);
         }
 
         // PUT api/<JobController>/5
         [Authorize(Roles = "Manager")]
         [HttpPut("{id}")]
-        public async Task Put(int id, [FromBody] JobDto job)
+        public async Task<IActionResult> Put(int id, [FromBody] JobDto job)
         {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
             await service.UpdateItem(id, job);
+            return NoContent();
         }
 
         // DELETE api/<JobController>/5
