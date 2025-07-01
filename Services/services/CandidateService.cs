@@ -45,6 +45,5 @@ namespace Service.servicess
             Candidate candidateEntity = mapper.Map<CandidateDto, Candidate>(item);
             await repository.UpdateItem(id, candidateEntity);
         }
-
     }
 }

@@ -13,7 +13,7 @@ public class Job
 {
     [Key]
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-    public int JobId { get; set; } // שימי לב לשם הזה
+    public int JobId { get; set; } 
 
     [ForeignKey("Manager")]
     public int ManagerId { get; set; }
